@@ -1,12 +1,23 @@
 {
   "name": "trabajo-en-clase-heroku",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pablo-Guerraa/Api-heroku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pablo-Guerraa/Api-heroku/issues"
+  },
+  "homepage": "https://github.com/Pablo-Guerraa/Api-heroku#readme",
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }
